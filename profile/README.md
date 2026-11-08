@@ -62,4 +62,4 @@ npm run dist:mac
 
 Open an issue in the [Kiwi IDE repository][kiwi-ide] to report a bug or suggest a feature. For bug reports, include your Kiwi IDE version, operating system, and the steps to reproduce the issue. If it affects a build or language feature, include the relevant tool versions and error output.
 
-[kiwi-ide]: https://github.com/KIWI-IDE\KiwiIDE
+[kiwi-ide]: https://github.com/KIWI-IDE/KiwiIDE
